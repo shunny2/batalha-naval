@@ -1,2 +1,2 @@
 # jogo-BatalhaNaval
-Jogo batalha naval feito em C. Iniciado na faculdade.
+Jogo batalha naval feito em C.
