@@ -1,2 +1,2 @@
 # jogo-BatalhaNaval
-Projeto Jogo batalha naval.
+Projeto Jogo batalha naval feito em C.
